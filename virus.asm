@@ -1,5 +1,5 @@
 	JE READ
-	JNE Diego_virus
+	JNE Diego_Analise_do_virus
 ; Define os segmentos de código, dados e pilha
 .code
 org 100h
